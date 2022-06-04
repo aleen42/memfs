@@ -29,7 +29,7 @@
     "@semantic-release/changelog": "6.0.1",
     "@semantic-release/git": "10.0.1",
     "@semantic-release/npm": "9.0.1",
-    "@types/jest": "27.5.0",
+    "@types/jest": "28.1.1",
     "@types/node": "10.17.60",
     "husky": "7.0.4",
     "jest": "28.0.3",
